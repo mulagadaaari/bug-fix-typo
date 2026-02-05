@@ -1,0 +1,2 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/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 | jq -r '.head.repo.clone_url'
+bash: jq: command not found
